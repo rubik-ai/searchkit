@@ -32,7 +32,7 @@ export class TagCloud extends React.PureComponent<TagCloudProps, any> {
     itemComponent: ItemComponent,
     showCount: false,
     minFontSize: 1, // In em
-    maxFontSize: 1.5,
+    maxFontSize: 2.5,
     translate: identity,
     countFormatter: identity
   }
